@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jeu54pJJBVYtbReMO7C0hXfiyUmXBq5sA4QIoSBDZShoRX2X43TXZQ3PlxcPfkRyir3MqM1flMdZDzJLjad3OA==",
+  "success": true,
+  "projectFilePath": "D:\\VAJNO_BLAT!\\web5laba\\web5laba\\web5laba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vovan\\.nuget\\packages\\google.apis\\1.51.0\\google.apis.1.51.0.nupkg.sha512",
+    "C:\\Users\\vovan\\.nuget\\packages\\google.apis.auth\\1.51.0\\google.apis.auth.1.51.0.nupkg.sha512",
+    "C:\\Users\\vovan\\.nuget\\packages\\google.apis.core\\1.51.0\\google.apis.core.1.51.0.nupkg.sha512",
+    "C:\\Users\\vovan\\.nuget\\packages\\google.apis.drive.v2\\1.51.0.2335\\google.apis.drive.v2.1.51.0.2335.nupkg.sha512",
+    "C:\\Users\\vovan\\.nuget\\packages\\google.apis.drive.v3\\1.51.0.2335\\google.apis.drive.v3.1.51.0.2335.nupkg.sha512",
+    "C:\\Users\\vovan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\vovan\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512"
+  ],
+  "logs": []
+}
